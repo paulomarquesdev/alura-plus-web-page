@@ -1,6 +1,6 @@
 # Alura Plus
 
-![preview](./.github/print.png)
+![preview](./assets/img/print.png)
 
 > Curso HTML e CSS: Praticando HTML/CSS
 
