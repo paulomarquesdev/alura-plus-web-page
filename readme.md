@@ -1,11 +1,13 @@
 # Alura Plus
 
-![preview](./assets/img/print.png)
+![preview](./.github/desktop.png)
 
 > Curso HTML e CSS: Praticando HTML/CSS
 
-Projeto construído durante o curso HTML e CSS: Praticando HTML/CSS, ministrado pela Alura.
+Projeto construído durante o curso HTML e CSS: Praticando HTML/CSS, ministrado pela Alura. No curso foi desenvolvido apenas a versão Desktop.
+Como plus desenvolvi por minha conta o layout mobile o qual implementei no código. 
 
+![preview](./.github/mobile.png)
 
 [Clique aqui para acessar](https://paulomarquesdev.github.io/alura-plus-web-page/)
 
@@ -19,4 +21,4 @@ O Alura Plus é uma página web de divugação dos produtos oferecidos pela inst
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=1%3A77). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através original da Alura [DESSE LINK](https://www.figma.com/file/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=1%3A77). Já para visualizar o layout com a adição da versão mobile [DESSE LINK](https://www.figma.com/community/file/1165465659669020638). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
