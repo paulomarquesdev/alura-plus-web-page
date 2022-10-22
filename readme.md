@@ -1,13 +1,13 @@
 # Alura Plus
 
-![preview](./.github/desktop.png)
+![preview](./assets/img/desktop.png)
 
 > Curso HTML e CSS: Praticando HTML/CSS
 
 Projeto construído durante o curso HTML e CSS: Praticando HTML/CSS, ministrado pela Alura. No curso foi desenvolvido apenas a versão Desktop.
 Como plus desenvolvi por minha conta o layout mobile o qual implementei no código. 
 
-![preview](./.github/mobile.png)
+![preview](./assets/img/mobile.png)
 
 [Clique aqui para acessar](https://paulomarquesdev.github.io/alura-plus-web-page/)
 
