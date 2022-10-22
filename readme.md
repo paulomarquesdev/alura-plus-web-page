@@ -7,11 +7,11 @@
 Projeto construído durante o curso HTML e CSS: Praticando HTML/CSS, ministrado pela Alura. No curso foi desenvolvido apenas a versão Desktop.
 Como plus desenvolvi por minha conta o layout mobile o qual implementei no código. 
 
-![preview](./assets/img/mobile.png)
-
 <div align="center" width="50%">
-  [Clique aqui para acessar](https://paulomarquesdev.github.io/alura-plus-web-page/)
+  ![preview](./assets/img/mobile.png)
 </div>
+
+[Clique aqui para acessar](https://paulomarquesdev.github.io/alura-plus-web-page/)
 
 ## Tecnologias
 
