@@ -9,7 +9,7 @@ Como plus desenvolvi por minha conta o layout mobile o qual implementei no códi
 
 ![preview](./assets/img/mobile.png)
 
-<div width="500px">
+<div align="center" width="50%">
   [Clique aqui para acessar](https://paulomarquesdev.github.io/alura-plus-web-page/)
 </div>
 
