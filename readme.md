@@ -8,7 +8,7 @@ Projeto construído durante o curso HTML e CSS: Praticando HTML/CSS, ministrado 
 Como plus desenvolvi por minha conta o layout mobile o qual implementei no código. 
 
 <div align="center">
-  <img width="35%" src="./assets/img/mobile.png">
+  <img width="25%" src="./assets/img/mobile.png">
 </div>
 
 [Clique aqui para acessar](https://paulomarquesdev.github.io/alura-plus-web-page/)
